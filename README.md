@@ -27,7 +27,7 @@ CredHill provides solution to create stunningly beautiful invoices, provides rec
 Clone the project
 
 ```bash
-  git clone https://github.com/Anupreet1213/Invoicer-TS.git
+  git clone https://github.com/AmanApT/CredHill.git
 ```
 
 Go to the project directory
